@@ -1,0 +1,416 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from a country gentleman to an eminent but easy citizen, who was unhappily misguided in the fatal election of Sir John Moore for Lord Mayor of London, at Michaelmas 1681.</title>
+            <author>W. N.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A23610</idno>
+            <idno type="STC">Wing N82</idno>
+            <idno type="STC">ESTC R216399</idno>
+            <idno type="EEBO-CITATION">99828130</idno>
+            <idno type="PROQUEST">99828130</idno>
+            <idno type="VID">32557</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A23610)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32557)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1855:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from a country gentleman to an eminent but easy citizen, who was unhappily misguided in the fatal election of Sir John Moore for Lord Mayor of London, at Michaelmas 1681.</title>
+                  <author>W. N.</author>
+                  <author>T. F. Citizen's answer.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Signed at end: W.N.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Moore, John, --  Sir, 1620-1702 --  Early works to 1800.</term>
+               <term>City of London (England). --  Court of Common Council --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:32557:1" rendition="simple:additions"/>
+            <head>A <hi>LETTER</hi> from a Country Gentleman, to an Eminent but Eaſy <hi>Citizen,</hi> who was unhappily miſguided in the fatal Election of Sir <hi>John Moore</hi> for Lord Mayor of <hi>London,</hi> at <hi>Mi<g ref="char:EOLhyphen"/>chaelmas</hi> 1681.</head>
+            <opener>
+               <salute>My Old Friend;</salute>
+            </opener>
+            <p>I Shall never forget, and am confident that you cannot but re<g ref="char:EOLhyphen"/>member, the ſerious Diſcourſe wherewith you entertained me at your Houſe, in the Evening of that Black Day, when a packt Jury butcher'd that well-deſerving Citizen and Alderman, Mr. <hi>Corniſh,</hi> within ſight of <hi>Guildhall;</hi> you did then, with the high<g ref="char:EOLhyphen"/>eſt Sorrow, lament that Gentleman's Fall, and manifeſted a deep Abhorrence of your own Error, in giving your Vote to advance Sir <hi>John Moore</hi> to the Chair; to whoſe unhappy Promotion you very feelingly and ſenſibly imputed the many Miſchiefs which from that Day had befallen your Famous City, and in particular the ſhedding that Innocent Blood, which to this Day cries for Vengeance.</p>
+            <p>Our long continued Friendſhip <hi>(dear Sir)</hi> will, I queſtion not, juſtify me in preſenting to your view at this time, ſome few of thoſe Melancholy Obſervations which you then made; and I do it to the end, that, ſo far as in me lies, I may prevent your Relapſing into your former Error of miſplacing your Vote, at the enſuing Election of <hi>a Lord Mayor.</hi>
+            </p>
+            <p>You remembred me (with a becoming Deteſtation of the Fact) of Sir <hi>John Moore</hi>'s notorious and impudent Uſurpation upon your Anci<g ref="char:EOLhyphen"/>ent and Undoubted Rights, in raviſhing from the City the Right of Electing <hi>Shariffs;</hi> this you aggravated, by noting that you were, with the dread of <hi>Pikes and Muſquets,</hi> debarr'd and kept from your Right of Election; and that Sir <hi>John Moore,</hi> Sir <hi>William Prichard,</hi> Sir <hi>James Smith,</hi> with others of their Party, by their Warrant, brought a Body of Souldiers into the Hall; and commanded <hi>Lieutenant Colonel Quiney,</hi> who led them, to Affront, Aſſault, and Thruſt, not only Commoners, but even Six of your Aldermen out of the Hall; who (as you named them) I remember were, Sir <hi>Robert Clayton,</hi> Sir <hi>John Lawrence,</hi> Sir <hi>Pa<g ref="char:EOLhyphen"/>tient Ward,</hi> Sir <hi>Thomas Gold,</hi> Sir <hi>John Shorter,</hi> and Mr. <hi>Corniſh.</hi>
+            </p>
+            <p>You went on, minding me how ſhamefully the Sheriffs, <hi>North</hi> and <hi>Rich,</hi> whom Sir <hi>John Moore</hi> in an Arbitrary and Hoſtile manner had impoſed upon the City, packt Juries to deſtroy Men; and in particu<g ref="char:EOLhyphen"/>lar the great and invaluable <hi>Lord Ruſſel,</hi> the loſs of whom you ſaid could never be ſufficiently lamented.</p>
+            <p>You alſo obſerved, that from that fatal Day of Sir <hi>John Moore</hi>'s taking the Chair, we were to date all the Calamities which befel the City, and Kingdom alſo, to the Day of the late King's Abdication. And amongſt many others, you reckon'd,</p>
+            <p n="1">1. The Diſſolution of the Ancient and Well-eſtabliſh'd Government of the City, by the bringing the <hi>Quo Warranto</hi> againſt your Charter.</p>
+            <p n="2">2. The making it <hi>a Riot</hi> in the Livery-Men to appear at <hi>Guild-Hall</hi> to Elect Sheriffs; and then packing a Jury of <hi>implacable and imbitter'd Tories,</hi> who were themſelves the only true Rioters, to find Mr. <hi>Pil<g ref="char:EOLhyphen"/>kington</hi> and Mr. <hi>Shute,</hi> (then <hi>Sheriffs</hi>) Sir <hi>Thomas Player,</hi> (your <hi>Cham<g ref="char:EOLhyphen"/>berlain</hi>) Mr. <hi>Bethel,</hi> Mr. <hi>Corniſh,</hi> Mr. <hi>Deagle,</hi> and many other eminent Citizens, guilty of a Riot, in aſſerting their Right to chuſe <hi>Sheriffs;</hi> and alſo the impriſoning the <hi>Sheriffs</hi> in the <hi>Tower</hi> for no other Crime.</p>
+            <p n="3">3. The tranſcendent Exorbitancy of the wicked Juries then re<g ref="char:EOLhyphen"/>turned; many Inſtances whereof you laid before me, and remembred me that (beſides the Murders which they committed) their unrigh<g ref="char:EOLhyphen"/>teous Verdicts drove Sir <hi>Patient Ward,</hi> Mr. <hi>Papillon,</hi> and many other Perſons of great Deſert, into Exile. You further added, that their mad Zeal for the Intereſt of their Darling <hi>Popiſh Succeſſor,</hi> ſpared no Rank nor Order of Men; inſtancing their giving up that Reverend and highly Deſerving Divine, Mr. <hi>Johnſon,</hi> to be ignominiouſly and barba<g ref="char:EOLhyphen"/>rouſly whipp'd, for his honeſt and ſeaſonable Oppoſition to the Po<g ref="char:EOLhyphen"/>piſh Deſigns then on foot. Their finding that Grave and Pious Divine Mr. <hi>Baxter,</hi> guilty of a High Miſdemeanour, (as they call'd it) for no other Offence, than writing againſt <hi>the Pope</hi> and his <hi>Biſhops,</hi> which by <hi>an accurſed Innuendo,</hi> they made to intend the <hi>Biſhops</hi> of the <hi>Church of England.</hi> You moreover obſerved, how that they, upon every Oc<g ref="char:EOLhyphen"/>caſion where it was demanded, very prodigally gave 100000 <hi>l.</hi> Da<g ref="char:EOLhyphen"/>mages againſt private Perſons; inſomuch that Sir <hi>Tho. Pilkington, Mr. Colt, Dr. Oates, Mr. Covert,</hi> and <hi>Mr. Culliford</hi> were made Debtors to the <hi>Duke of York,</hi> and his Priſoners in Execution, for 500000 <hi>l.</hi> for only aſſerting and averring, that the Duke was deſigning to ſubject us to Popery and Slavery, or for Diſcourſes to that effect.</p>
+            <p n="4">4. You did not forget to expreſs your Deteſtation of the malicious Proſecution, and heavy Oppreſſion of Sir <hi>Samuel Barnardiſton</hi> and <hi>Mr. Wilmer,</hi> the Foremen of the two Grand Juries, which (as you well obſerved) for a time, and till Sir <hi>John Moore</hi> was moſt unhappi<g ref="char:EOLhyphen"/>ly advanc'd to the Chair, ſtem'd the Villanous and Bloody Deſigns of thoſe, who were about <hi>to Kidnap</hi> the good People of theſe three glori<g ref="char:EOLhyphen"/>ous Kingdoms to <hi>Rome.</hi> And that by returning <hi>Ignoramus</hi> upon the In<g ref="char:EOLhyphen"/>dictments againſt the <hi>Earl of Shaftsbury</hi> and <hi>Mr. Colledge,</hi> a Verdict which you ſaid none but Men forſaken of common Senſe and Honeſty did complain of.</p>
+            <p>Theſe <hi>(Sir)</hi> with abundance of other foul Facts which have ſlip'd my Memory, you placed to Sir <hi>John Moore</hi>'s Account, and did with no ſmall regret acknowledg, that by him the Banks of our Security were broken down, and that you, with a ſad Heart beheld the Tor<g ref="char:EOLhyphen"/>rent of Popery and Arbitrary Power carrying all before it.</p>
+            <p>Now as I am aſſured <hi>(my good Friend)</hi> that you will agree that I do not miſremember your Diſcourſe on that ſad Occaſion of <hi>Alderman Corniſh's Murder;</hi> ſo I doubt not but you will bear with me, in dealing with you, in relation to your next Election of <hi>a Lord Mayor,</hi> with that wonted Freedom and Plainneſs wherewith you and I have long con<g ref="char:EOLhyphen"/>vers'd.</p>
+            <p>I muſt tell you, I plainly ſee that thoſe Men who carried us to the very brink of Deſtruction, are not only remorſleſs, but make it their buſineſs to act the ſame thing over again: How elſe comes it to paſs, that they lately aſſumed the Confidence to ſtruggle for to make one of themſelves <hi>Alderman</hi> in <hi>Alderſgate Ward?</hi> how elſe happens it, that they are now exerting themſelves with more than ordinary Induſtry to bring Sir <hi>Jonathan Raymond,</hi> or Sir <hi>Peter Daniel</hi> to the <hi>Chair?</hi>
+            </p>
+            <p>It highly concerns you (Sir) I muſt tell you, to be watchful againſt the Men, who encouraged and triumph'd in the <hi>Murders</hi> of late com<g ref="char:EOLhyphen"/>mitted amongſt you; and who to this hour go on to palliate and ex<g ref="char:EOLhyphen"/>cuſe, if not to juſtify them; Againſt the Men who overturn'd the Foundations of your Government; Againſt the Men who were fond of Vaſſalage and Slavery to that degree, that they made Addreſſes of Thanks to King <hi>Charles</hi> II. for breaking two Parliaments in the com<g ref="char:EOLhyphen"/>paſs of three Months, and promiſed him to venture their <hi>Lives</hi> and <hi>Fortunes</hi> to maintain the Violation of the Conſtitution of the Engliſh Government; Againſt the Men who cry'd up a <hi>Popiſh Succeſſor</hi> as the only means to preſerve <hi>the Church of England.</hi>
+            </p>
+            <p>Now had I the honour of a Vote amongſt you, fall as it would, I ſhould be careful neither to place it upon any of theſe Men, nor where they place theirs, but going againſt them, ſhould certainly conclude my ſelf to be in the right; I ſhould moſt ſurely vote for Men of undoubted Loyalty to the preſent Government, and who gave Demon<g ref="char:EOLhyphen"/>ſtration thereof by a conſtant adherence to the Principles upon which it is founded, and by oppoſition to thoſe wicked Deſigns upon our Religion, Laws and Liberties, from which his moſt Gracious Majeſty came moſt generouſly and ſeaſonably to ſave us. But to hold you no longer in Generals, I ſhall proceed to diſcourſe you a little particularly about your enſuing Election, and ſhall obſerve this method in doing it.</p>
+            <p n="1">1. I ſhall with an impartial regard to Truth, ſpeak a few words of Sir <hi>Jonathan Raymond</hi> and Sir <hi>Peter Daniel,</hi> who are recommended to your Choice.</p>
+            <p n="2">2. I ſhall obſerve who they are that ſtickle for their Election. And,</p>
+            <p n="3">3. I ſhall conſider the plauſible Pretence, which, by your Letter you tell me, is made uſe of on their behalf, <hi>viz. Their being next the Chair.</hi>
+            </p>
+            <p n="1">1. To begin with Sir <hi>Jonathan</hi> (if that may recommend him to your Choice) I am at a certainty, that upon the day when my Lord <hi>Ruſſell</hi> was tried, and after the <hi>murdering Jury</hi> had brought him in guilty, he came to the King's-head Tavern in <hi>Leaden-hall Street,</hi> and there rejoiced that his Lordſhip was convicted, and highly commended the Jury-men that found him guilty, and in his great Wiſdom de<g ref="char:EOLhyphen"/>clared them to be very honeſt Men.</p>
+            <p n="2">2. The then <hi>Lord-Mayor,</hi> (Sir <hi>Patient Ward</hi>) the <hi>Aldermen</hi> and <hi>Common-Council</hi> of the City, having (after the aſtoniſhing Diſſolution of the <hi>Oxford</hi> Parliament) upon the 13th of <hi>May</hi> 1681, drawn up a <hi>Petition and Addreſs</hi> to the <hi>King,</hi> ſetting forth <hi>the imminent danger of Popery, and its Encouragement from the hopes of a</hi> Popiſh Succeſſor, <hi>and praying that the King would call a Parliament to provide againſt the Miſchiefs threatning the City and Kingdom.</hi> This <hi>Petition</hi> was carried to <hi>Windſor</hi> by my <hi>Lord Mayor,</hi> Sir <hi>Robert Clayton</hi> and Sir <hi>George Treby</hi> the Recor<g ref="char:EOLhyphen"/>der: but they were diſgracefully rejected, and denied Acceſs to the <hi>King,</hi> when at the ſame time Sir <hi>William Turner</hi> and Sir <hi>John Moore,</hi> who carried <hi>a TORY ADDRESS, thanking the King for his Declaration</hi> (lately emitted to diſgrace and vilify the two laſt Parliaments) <hi>and promiſing to ſtand by him in the Violation of the Laws, with their Lives and Fortunes</hi> were received and highly careſſed.</p>
+            <p>The <hi>Petition</hi> of the <hi>Lord-Mayor, Aldermen and Common-Council,</hi> being afterwards upon the next <hi>Council-day</hi> (the 19th of <hi>May</hi>) carried to <hi>Hampton-Court,</hi> and there preſented; Sir <hi>Jonathan Raymond,</hi> with Sir <hi>William Prichard,</hi> Sir <hi>George Jefferies,</hi> and others of the <hi>Commiſſioners of the Lieutenancy,</hi> came in Perſon, and in oppoſition to the City-Peti<g ref="char:EOLhyphen"/>tion, preſented a Petition ſetting forth, that <hi>they were infinitely ſatisfied with the King's Declaration</hi> [which in truth was a Libel upon the two laſt Parliaments] <hi>and that they were manimouſly reſolved to venture their Lives and Fortunes for him in oppoſition to, and defiance of all Enemies and Oppoſers of what Sect or ſort ſoever.</hi> [Now theſe Gentlemen appearing in direct oppoſition to, and defiance of the City-Petition, I leave it to the World to judg who are the <hi>Enemies and Oppoſers,</hi> to whom they here bid <hi>Defiance;</hi> and whether this very Petition which aſſured the King of <hi>the Sword of the City,</hi> was not an Invitation to the bringing the fatal <hi>Quo Warranto</hi> againſt the City <hi>Charter?</hi>]</p>
+            <p n="3">3. 'Tis notoriouſly known what Endeavours were uſed in the Mayoralty of Sir <hi>William Prichard,</hi> to have <hi>Tories</hi> only in the Govern<g ref="char:EOLhyphen"/>ment of the City; and it being found that in <hi>Biſhopſgate-Ward,</hi> the Inhabitants had better ſenſe than to chooſe <hi>Common-Council-Men</hi> of their ſtamp, it was projected to divide the Ward, and to have only four of the fourteen Common-Council-Men which that Ward ſends, choſen without, and the reſt within the Gate, where they knew that ex<g ref="char:EOLhyphen"/>cluding the Inhabitants without the Gate, they had a Strength to carry it to their Minds; and in particular to bring in that ſplenetick bloody Tory <hi>Langham,</hi> one of <hi>Alderman</hi> Corniſh<hi>'s Jury,</hi> and <hi>Sir</hi> Jonathan Raymond<hi>'s Deputy and Director.</hi> For the accompliſhing this Deſign, Sir <hi>Jonathan</hi> being <hi>Alderman</hi> of that Ward, refuſed to go to an Election upon St. <hi>Thomas</hi>'s Day, according to the Uſage of the City, but adjourned the <hi>Ward-Mote</hi> for ſeveral days, and ſo kept that Ward without Repreſentatives in the Common-Council, till an Act of Common-Council was paſſed to divide the Ward.</p>
+            <p n="4">4. Sir <hi>Jonathan Raymond</hi> was for the Surrender of the Charter; and was found, according to the beſt of his Capacity and Underſtanding, to be an officious Witneſs againſt the <hi>Sheriffs</hi> and other Citizens who were indicted for <hi>the Riot</hi> which Sir <hi>John Moore</hi> made at the Election of Sheriffs in 1682. Whether he ſwore Truth or not, is beſt known to Sir <hi>Robert Clayton,</hi> whoſe Evidence be contradicted.</p>
+            <p n="5">
+               <pb facs="tcp:32557:2" rendition="simple:additions"/> 5. He being at <hi>Turbridg</hi> this time twelve Month, his <hi>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> was put up to preach before the Nobility and Gentry there, who omitting to pray for <hi>King William</hi> and <hi>Queen Mary,</hi> and not ſo much as men<g ref="char:EOLhyphen"/>tioning <hi>King</hi> and <hi>Queen;</hi> a Perſon in great Authority reprimanded Sir <hi>Jonathan</hi> for it: and I am aſſured that he tamely anſwer'd, he could not help it, <hi>his Wife ſaid he was a good Man.</hi>
+            </p>
+            <p n="6">6. His Son Sir <hi>Jemmet Raymond</hi> keeps one <hi>Hart</hi> for his Chaplain in <hi>Barkſhire,</hi> who is <hi>a non-ſwearing Parſon,</hi> and abdicated a Living at or near <hi>Ta<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>toe-Dean.</hi> This famous Sir <hi>Jemmet</hi> is alſo ſo <hi>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h conſci<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>'d,</hi> that he pays double to the <hi>Poll-Bill</hi> rather than come in, according to the Direction of the Act, and take the Oath of Fidelity to their Majeſties.</p>
+            <p>Sir <hi>Peter Daniel,</hi> as 'tis well known, was <hi>a pragnatical Spy</hi> upon the Court of Aldermen and the City, in the late Reigns, when the Court was carrying on the pernicious Deſigns, whereof you have ſince felt the ſad Effects; and he, with that doughty Knight Sir <hi>William Dodſon,</hi> were the conſtant <hi>Tell-Tales</hi> and <hi>Intelligencers</hi> to that famous <hi>Plot-Secre<g ref="char:EOLhyphen"/>tary,</hi> Sir <hi>Leoli<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Jenkins.</hi>
+            </p>
+            <p n="2">2. King <hi>Charles</hi> II, having by the Aid of <hi>a pack of perjured Citizens</hi> overturn'd the ancient Government of the City, who but <hi>our</hi> Sir <hi>Peter</hi> muſt (as a well approved Inſtrument for carrying on the Tyrannical Deſigns of that Day) be <hi>the firſt Sheriff of the King's Ap<g ref="char:EOLhyphen"/>pointment;</hi> and ſo he was, under a Commiſſion to execute the Office during Pleaſure, having juſt before, when Sheriff of <hi>Surry,</hi> approved himſelf a fit State-Tool, in packing a Jury which gave the 800 <hi>l.</hi> Damages to <hi>Bolſworth</hi> againſt Alderman <hi>Vilkington.</hi>
+            </p>
+            <p n="3">3. This our Sir <hi>Peter</hi> being one of the Governours of St. <hi>Thomas</hi>'s Hoſpital in <hi>Southwark</hi> (together with others) promoted and preſen<g ref="char:EOLhyphen"/>ted an Addreſs to the late King <hi>James,</hi> declaring for Liberty of Conſcience to thoſe of that King's Perſwaſion, without regard to any others.</p>
+            <p n="4">4. He was one of the Sheriffs which pack'd the Jury for the Murder of Col. <hi>Sidney:</hi> he was for the Surrender of the City-Charters. He being a Member of King <hi>James</hi>'s Parliament, voted the <hi>Militia</hi> uſeleſs, and to keep up a ſtanding Army under the Command of Popiſh Officers. Laſtly, being a ſneaking Proſtitute to King <hi>James,</hi> he promiſed him to comply in taking off the Teſts and Penal Laws.</p>
+            <p>Sir, having thus hinted what ſort of Men you are invited to elect, I proceed to tell you who are the <hi>Sticklers</hi> that recommend them to you.</p>
+            <p>You will not fail of a <hi>Rawlinſon,</hi> a <hi>Langham,</hi> a <hi>Bedingfield,</hi> a <hi>Foſter,</hi> a <hi>Midglty,</hi> a <hi>Gilburn,</hi> a <hi>Withers,</hi> a <hi>Floyer,</hi> a <hi>Feltham,</hi> a <hi>Coles,</hi> a <hi>Genew,</hi> a <hi>Kemp,</hi> a <hi>Carpenter,</hi> an <hi>Ainge,</hi> a <hi>murdering Jury-man,</hi> a <hi>Charter-Be<g ref="char:EOLhyphen"/>trayer,</hi> in every Ward to promote this neceſſary Work.</p>
+            <p>You will find a <hi>lying Doctor</hi> about <hi>Aldgate,</hi> running up and down, under pretence of <hi>a Circular Letter,</hi> and crying out, <hi>The Church, the Church; O the Church is betray'd into the hands of falſe Loons!</hi>
+            </p>
+            <p>But above, and which is more than all, you will have <hi>truſty Roger,</hi> with his Diſciples, engaging might and main in this great Point, eſpecially for <hi>good Sir Peter;</hi> for he was not a little proud of him when he was made <hi>Hangman to King Charles;</hi> for Proof whereof I muſt entreat you to turn to two <hi>Obſervators,</hi> the firſt, of <hi>May</hi> 20, 1682. <hi>Numb.</hi> 140, which in the Name of the the Tories ſpeaks thus: <hi>If it ſhould pleaſe God to ſend us SEASONABLE SHERIFFS, and fair play for our Money, there are ſet afoot ſo many Titles in Competition for the Gallows, that it would be a hard matter to ſettle their Claims, and ſay who ſhould go firſt.</hi> Now what ſort of Men in his Opinion would make theſe <hi>ſeaſonable hanging Sheriffs,</hi> you will find in his <hi>Obſervator</hi> of <hi>May</hi> 27, 1684. where, ſpeaking of the poor depreſſed <hi>Whigs,</hi> he ſaith, <hi>Prethee, wilt thou ſet their</hi> Corniſh <hi>and</hi> Bethel, <hi>their</hi> Pilkington <hi>and</hi> Shute <hi>againſt Our</hi> NORTH <hi>and</hi> RICH, <hi>Our</hi> DANIEL <hi>and</hi> DASH<g ref="char:EOLhyphen"/>WOOD?—You here ſee (my Friend) this great Man's Opinion of Sir <hi>Peter Tell-tale,</hi> and in what Intereſt he was; 'tis <hi>Le-Strange's North</hi> end <hi>Rich, Le-Strange's Daniel</hi> and <hi>Daſhwood;</hi> theſe were his <hi>ſeaſonable Sheriffs</hi> to hang Proteſtants; and you Citizens muſt at your Peril, vote to the pleaſing this Teſty Gentleman, leſt he at one time or other bring Vengeance upon your Pates; for he told you in his Book called <hi>Le-Strange's Apology,</hi> p. 48. That <hi>a Citizen's Skull is but a thing to try the Temper of a Souldier's Sword upon.</hi>
+            </p>
+            <p>I come now to the great Point, <hi>They are next the Chair, 'tis their Right: What! deny Succeſſion in the right Line; No, no, it may not be.</hi>
+            </p>
+            <p>To this I ſay, this Argument can weigh only with the Advocates for <hi>a Popiſh Succeſſor;</hi> we well know how often, and how juſtifiably the direct Succeſſion, even of the Crown, has been paſs'd over with<g ref="char:EOLhyphen"/>out regard: But to keep within the City, I ſhall give you a modern Inſtance or two, wherein theſe very Men I am talking of, have paſs'd over the Alderman next the Chair. In the Year 1670, Sir <hi>Richard Ford</hi> was <hi>next the Chair,</hi> and according to the preſent pretence, ought to have taken it; but the City then pitch'd upon Sir <hi>Samuel Starling,</hi> a <hi>junior Alderman,</hi> and he was elected Mayor. And to come nearer home to theſe Men, who now ſtickle for this <hi>Succeſſion;</hi> was not Sir <hi>Peter Daniel</hi> as near the Chair this time twelve Month as he now is? yes, he was, and Sir <hi>Samuel Daſhwood</hi> was <hi>junior Alderman</hi> to him; nevertheleſs without regard to it, they then put up and voted for Sir <hi>Samuel,</hi> and yet you are now called upon to vote for Sir <hi>Peter, becauſe he is next the Chair,</hi> tho the Charters of the City give you an undoubted Right and full Power to chooſe thoſe into the Chair whom you think fitteſt for the Office.</p>
+            <p>Now <hi>(my Good Friend)</hi> to draw to the Concluſion of a much lon<g ref="char:EOLhyphen"/>ger Letter than I intended you: Let me tell you, theſe things which you and I formerly diſcourſed, and which I have now brought to your remembrance, ought to keep Men from running upon the ſame Shelves and Sands where formerly they were in danger to have periſh'd; 'tis therefore to be hoped, that you and your fellow-Citizens will now ex<g ref="char:EOLhyphen"/>ert your ſelves in this Election, as becomes <hi>Loyal Subjects</hi> and <hi>True Eng<g ref="char:EOLhyphen"/>liſh-men.</hi> Bleſſed be <hi>God,</hi> you have not now the Power of <hi>Whitehall</hi> a<g ref="char:EOLhyphen"/>gainſt you; there's now no <hi>Se<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>tary Je<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>kins</hi> to tamper in your Electi<g ref="char:EOLhyphen"/>ons: You will not now be withſtood and awed in <hi>Guildhall</hi> any <hi>Mi<g ref="char:EOLhyphen"/>litary Power:</hi> There's now no Thunderbolts of <hi>Excommunication</hi> from <hi>Doctors Commons;</hi> No Sir <hi>T<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>omas Pi<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ld;</hi> No Writs <hi>de E<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>o capiendo,</hi> to ſtrike a Terror into <hi>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> themſelves: I will therefore hope that <hi>N<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> and Impudence</hi> ſhall <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>. 'Twas reported of Sir <hi>John M<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </hi> that he ſhould declare that he would <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and whether <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſaid ſo or not, moſt ſure I am that he verified the Saying: and ſhould you be ſo ſtupid in the City at this buy, as to place Sir <hi>Jo<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>than Ray<g ref="char:EOLhyphen"/>mond</hi> in the Chair, I will <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that <hi>he will be</hi> LANGHAM, and not <hi>Pilkington</hi> or <hi>Stamp.</hi> 'Tis well known that Sir <hi>T<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>as Pilki<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gto<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> was found to be a worthy and well-deſerving Magiſtrate, and that Sir <hi>Tho. Stamp</hi> is moſt deſervedly intitled to the ſame Character; but <hi>he is to leave his Work to the Man that ſhall be after him, and who know whether he ſhall be a Wiſe Man or a Fool?</hi>
+            </p>
+            <p>We are made happy in the preſent Feign by an <hi>Act</hi> of <hi>Parliament,</hi> which hath declared, That <hi>it i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> with t<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Saf<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> W<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>fare of this Proteſtant Kingdom to be<gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> by a P<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>h P<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ce , or a<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> King or Queen marrying a Papiſt: And it is the <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, That e<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> ſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in Perſon ſhall be EXCL<g ref="char:V">Ʋ</g>DED, and i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</hi>
+            </p>
+            <p>And is it not as inconſiſtent with the Safet<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Welfare of your <hi>Loyal Proteſtant City,</hi> to be govern'd by <hi>a Ja<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>bit<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> or by any Man whoſe <hi>Wife</hi> is ſuch? Let then your Vote <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> every <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Per<g ref="char:EOLhyphen"/>ſon; and may be be deemed uncapa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le of the Chair, how <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ar ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ever he ſtands to it. I remember 'twa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Advice of Sir <hi>Roger L'E<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ange</hi> about ten Years ſince, to his admiring H<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rd o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>T<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>s</hi> not to lay out a Penny with the <hi>Whigs:</hi> I ſhall not go al out to perſwade <hi>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> to turn this upon that <hi>b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d ſe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſs Crew.</hi> I ſee no Harm in buying a pair of Gloves of <hi>a Tory,</hi> no nor in drinking a Glaſs of Wine in <hi>a T<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Tavern;</hi> but I affirm that it is of the higheſt import, that you Vote not with thoſe <hi>diſloyal Men;</hi> your Lives, <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and Eſ<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tes, and which is more, your Religion, and the very Being and Support of the preſent Government is here concerned. And who knows what diſmal Conſequences it may bring with it, to lodg the great Truſt we are talking of, in any one, merely becauſe he is <hi>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t t<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Chair,</hi> without conſidering whether he deſerves it or not? <hi>T<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Magiſt<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>acy of</hi> London <hi>will be ſure to fall into Good Hands, whe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ev<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y Man ſhall give his Vote for him he judges beſt and fitteſt for the place.</hi> I therefore entreat you upon this Occaſion to conſider,</p>
+            <p n="1">1. Which of the Candidates has given earlier, larger, and opener Proofs of his Zeal to the Government now, and to the Priviledges of the City when they were invaded, and at laſt overturn'd ſome Years ago.</p>
+            <p n="2">2. Conſider their Wiſdom and Ability f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r ſo great a Truſt; their Zeal for their Country ſhewed upon all Occaſ<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>, and their firmneſs to the preſent Frame of Government ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ttled in <hi>E<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>land.</hi>
+            </p>
+            <p n="3">3. Conſider which of the two is moſt in Favour with thoſe that are diſſatisfied with the Government, and to which of them it is they give their Votes, and let theſe Gentlement Votes determine yours: <hi>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r Male-contents</hi> will not give their Votes to him they take for the greateſt Friend of the two, to a Government they hate. That muſt cer<g ref="char:EOLhyphen"/>tainly be the ſafeſt Side in this juncture of Time, where moſt of the Friends to the preſent Settlement rank themſelves; and of all People in the World, I ſhould be leaſt inclinable to follow their Opinion in the choice of a Magiſtrate, that in their Hearts are Enemies to them that fill the Throne.</p>
+            <p>Now to conclude, I know <hi>(my dear Friend)</hi> that your Temper and Moderation will incline you to cenſure me, for the ſeeming Harſhneſs wherewith I have now and then expreſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>'d my felt in this Letter, and for the frequent uſing <hi>the Name of Tory;</hi> and I am conſcious that Names of Diſcrimination and Reproach are oſſenſive to the Ears of good Men: but the Men I have been talking of <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>loried in calling them<g ref="char:EOLhyphen"/>ſelves <hi>Tories,</hi> and under that Name they acted all their Villanies I have recounted to you, and therefore they ought to have it. How<g ref="char:EOLhyphen"/>ever would they ſatisfy the World of their Ing<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nity and Repentance, their Crimes ought to be put into utter O<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>livi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n; but ſeeing they are attempting to play <hi>their old Game over again,</hi> and do full remain Impe<g ref="char:EOLhyphen"/>nitent, they are to be laſh'd, and are like to be told their own, when<g ref="char:EOLhyphen"/>ever they give provocation to it, how unkindly ſoever they take it.</p>
+            <closer>
+               <salute>I am <hi>(dear Sir)</hi>
+               </salute> 
+               <signed>Your Affectionate Servant,</signed>
+               <dateline>
+                  <date>Sept. 17. 92.</date>
+               </dateline>
+               <signed>W. N.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>The Citizen's Anſwer.</head>
+            <opener>
+               <salute>My dear Friend,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Thank you moſt heartily for your ſeaſonable Advice in your Letter of th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 17th Inſtant; and being now conſtantly ta<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> up in attendi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g the Buſi<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> of the Election of a Lord Mayor now at hand, I have only time to acknowled<gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> that you have truly remembred t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Diſcourſe that paſs'd b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tween us upon the Day when Alderman <hi>Corniſh</hi> was barbarouſly M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rd<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r'd; and I aſſure you that I ſhall not only with my utmoſt Induſtry atone for my Erro<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Voting for Sir <hi>John Moore,</hi> but ſhall keep your Letter by me, as I h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pe <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ery good Citize<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> will (to which end I put it forth in print) till a b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tter Hiſtory of the Villa<g ref="char:EOLhyphen"/>nous Practices which you have recounted, doth appear in the World; or til<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Repentance of the Criminals ſhall give o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>caſi<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve it, and to put t<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> foul Facts into utter Oblivion. You ſhall have an early Acco<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of our Suc<g ref="char:EOLhyphen"/>ceſs, from</p>
+            <closer>
+               <dateline>
+                  <date>Sept. 22. 92.</date>
+               </dateline>
+               <signed>Your Obliged Servant, <hi>T. F.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
